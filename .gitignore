@@ -1,5 +1,7 @@
 .DS_Store
-.idea
-/vendor
+/.idea
+/node_modules
 /typings
-/nod modules
+/app/*.js
+/app/*.js.map
+/dist
